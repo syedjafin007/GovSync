@@ -1,0 +1,6 @@
+{
+  "name": "GovSync AI",
+  "description": "Intelligent interoperability platform connecting fragmented government digital services into one unified citizen experience (SIH26129).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
